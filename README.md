@@ -1,7 +1,4 @@
-# Yummy-Food-App
-Responsive web app for discovering, searching, and viewing recipes using HTML, CSS, JavaScript, and an external Recipe API.
 # Yummy – Recipe Finder App
-
 A responsive web application that allows users to discover, search, and save delicious recipes from various cuisines.
 
 ## Overview
